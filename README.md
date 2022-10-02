@@ -1,6 +1,6 @@
 # Stand Stealthburner
 
-![1](/Image/Stand.jpg)
+![1](/Image/Stand.JPG)
 
 
 
