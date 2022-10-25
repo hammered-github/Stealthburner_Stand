@@ -2,7 +2,7 @@
 
 <p dir="auto">Based on <a href="https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_ToolheadStand">hartk1213</a><br>
 
-![1](/Image/Stand.JPG)
+![1](/Image/stand.jpg)
 
 
 
